@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{L80X:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),l=t.n(a),u=t("Bl7J");e.default=function(){return l.a.createElement(u.a,null,l.a.createElement("h1",null,"Join Us Page"))}}}]);
+//# sourceMappingURL=component---src-pages-join-js-cd989a9d22cb5793b2ca.js.map
