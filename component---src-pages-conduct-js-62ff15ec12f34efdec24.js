@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{n8rK:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),o=t.n(a),u=t("Bl7J");e.default=function(){return o.a.createElement(u.a,null,o.a.createElement("h1",null,"Code of Conduct"))}}}]);
-//# sourceMappingURL=component---src-pages-conduct-js-62ff15ec12f34efdec24.js.map

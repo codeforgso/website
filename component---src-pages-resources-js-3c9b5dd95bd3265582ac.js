@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{"9I2h":function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),u=t.n(a),c=t("Bl7J");n.default=function(){return u.a.createElement(c.a,null,u.a.createElement("h1",null,"COMING SOON - Resources Page"))}}}]);
+//# sourceMappingURL=component---src-pages-resources-js-3c9b5dd95bd3265582ac.js.map
