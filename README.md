@@ -54,4 +54,4 @@ We will only merge to the master branch via pull requests, so please do not push
 
 ### More Generalized Contributions
 
-Please see the Trello board for tasks which we need help with.
+Please see the Trello board for tasks which we need help with!
